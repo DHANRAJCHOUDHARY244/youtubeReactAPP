@@ -17,5 +17,9 @@
         ".vscode-test": false,
         ".vscode test": false,
         "**/.mypy_cache/**": true
+    },
+    "workbench.colorCustomizations": {
+        "minimap.background": "#00000000",
+        "scrollbar.shadow": "#00000000"
     }
 }
